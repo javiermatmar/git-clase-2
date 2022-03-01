@@ -4,3 +4,8 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: darkblue;
 }
+
+nav {
+    background-color: black;
+    color: white;
+}
